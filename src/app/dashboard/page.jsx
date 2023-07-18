@@ -1,8 +1,9 @@
 import React from 'react'
+import styles from "./page.module.css"
 
 function DashBoard() {
   return (
-    <div>DashBoard</div>
+    <div className={styles.container}>DashBoard</div>
   )
 }
 
