@@ -6,7 +6,7 @@ import Link from "next/link";
 function Footer() {
   return (
     <div className={styles.container}>
-      <div>©2023 NexTexh, All rights reserved.</div>
+      <div>©2023 NexTech, All rights reserved.</div>
       <div className={styles.social}>
         <Link href="https://www.linkedin.com/in/dev-ganesh-shinde/">
           {" "}
