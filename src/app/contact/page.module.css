@@ -47,4 +47,5 @@
     border: 3px solid #bbb;
     font-size: 20px;
     font-weight: bold;
+    resize: none;
 }
