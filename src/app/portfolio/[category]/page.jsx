@@ -34,6 +34,7 @@ function Category({ params }) {
               className={styles.img}
               src={item.image}
               fill={true}
+              alt="NexTech"
             />
           </div>
         </div>
