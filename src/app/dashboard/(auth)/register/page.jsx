@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import styles from "./page.module.css";
 import Link from "next/link";
-import { useRouter } from "next/navigation";
+import { useRouter } from "next/navigation"; 
 
 const Register = () => {
   const [error, setError] = useState(null);
@@ -16,7 +16,7 @@ const Register = () => {
     const password = e.target[2].value;
 
     try {
-      const res = await fetch("/api/auth/register", {
+      const res = await fetch("http://localhost:3000/api/auth/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

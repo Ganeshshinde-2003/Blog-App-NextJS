@@ -49,3 +49,12 @@
     font-weight: bold;
     resize: none;
 }
+.button {
+    padding: 20px;
+    cursor: pointer;
+    background-color: #53c28b;
+    border: none;
+    border-radius: 5px;
+    color: #eee;
+    font-weight: bold;
+  }
