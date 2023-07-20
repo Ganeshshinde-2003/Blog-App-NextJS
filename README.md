@@ -1,4 +1,4 @@
-# NexTech Social Media App 📸🌐
+# NexTech Blogging App 📸🌐
 
 NexTech is a full-stack social media app built with Next.js, React, and MongoDB. It allows users to share pictures and descriptions, create posts, and interact with other users. The app supports user authentication, including login via email and Google. Additionally, NexTech offers a dark mode and light mode feature for a personalized user experience. 🌙🌞
 
