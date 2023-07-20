@@ -4,10 +4,10 @@ import React, { useState } from "react";
 import styles from "./page.module.css";
 import Image from "next/image";
 
-export const metadata = {
-  title: "NexTech Contact",
-  description: "Let's Get Connected ",
-}
+// export const metadata = {
+//   title: "NexTech Contact",
+//   description: "Let's Get Connected ",
+// }
 
 function Contact() {
 
