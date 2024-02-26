@@ -38,7 +38,7 @@ function Contact() {
       })
       setText("sent");
       mutate();
-      e.target.reset() && router.push("/contact");
+      e.target.reset() && router.push("/");
       res.status === 201 
     } catch (error) {
       setError(error);
