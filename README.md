@@ -11,6 +11,8 @@ NexTech is a full-stack social media app built with Next.js, React, and MongoDB.
 - Portfolio section showcasing the app's features and benefits. 🏞️🎉
 - Contact page for users to send messages with names and email addresses. 📞📧💬
 
+https://github.com/Ganeshshinde-2003/Blog-App-NextJS/assets/115361691/1db3375f-3d1d-4182-b873-cbbe9275609d
+
 ## Getting Started 🚀
 
 ### Prerequisites 📋
